@@ -1,2 +1,2 @@
 # NewsPaper
-Its use react and telwindCss and Api calling
+This Website use react and telwindCss and Api calling
